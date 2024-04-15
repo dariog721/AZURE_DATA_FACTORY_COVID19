@@ -1,0 +1,24 @@
+{
+    "name": "tr_copy_population_data",
+    "properties": {
+        "annotations": [],
+        "runtimeState": "Started",
+        "pipelines": [
+            {
+                "pipelineReference": {
+                    "referenceName": "pl_ingestion_population_data",
+                    "type": "PipelineReference"
+                }
+            }
+        ],
+        "type": "BlobEventsTrigger",
+        "typeProperties": {
+            "blobPathBeginsWith": "/population/blobs/population_by_age.tsv.gz",
+            "ignoreEmptyBlobs": true,
+            "scope": "/subscriptions/cbbb23aa-f7e4-489f-96ba-c0e30369609b/resourceGroups/adf-rg/providers/Microsoft.Storage/storageAccounts/covid192024sa",
+            "events": [
+                "Microsoft.Storage.BlobCreated"
+            ]
+        }
+    }
+}

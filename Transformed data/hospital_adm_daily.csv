@@ -1,0 +1,27 @@
+country,country_code_2_digit,country_code_3_digit,population,reported_date,hospital_occupancy_count,icu_occupancy_count,source
+Austria,AT,AUT,8858775,2020-10-25,1225.0,174.0,Country_Website
+Belgium,BE,BEL,11455519,2020-10-25,4825.0,756.0,Country_Website
+Bulgaria,BG,BGR,7000039,2020-10-25,1976.0,138.0,External_Github
+Czechia,CZ,CZE,10649800,2020-10-25,5613.0,828.0,Country_Website
+Denmark,DK,DNK,5806081,2020-10-25,127.0,18.0,Country_Website
+Estonia,EE,EST,1324820,2020-10-25,29.0,4.0,Country_API
+France,FR,FRA,67012883,2020-10-25,16454.0,2575.0,Country_Website
+Hungary,HU,HUN,9772756,2020-10-25,2449.0,221.0,JRC
+Ireland,IE,IRL,4904240,2020-10-25,319.0,39.0,Country_Website
+Italy,IT,ITA,60359546,2020-10-25,13214.0,1208.0,Country_Github
+Latvia,LV,LVA,1919968,2020-10-25,146.0,,Country_Website
+Luxembourg,LU,LUX,613894,2020-10-25,114.0,12.0,Country_Website
+Netherlands,NL,NLD,17282163,2020-10-25,,537.0,Other Website
+Portugal,PT,PRT,10276617,2020-10-25,1574.0,230.0,Country_Website
+Romania,RO,ROU,19414458,2020-10-25,,828.0,Country_Website
+Slovakia,SK,SVK,5450421,2020-10-25,1117.0,,JRC
+Slovenia,SI,SVN,2080908,2020-10-25,508.0,73.0,Country_Github
+United Kingdom,UK,GBR,66647112,2020-10-25,9199.0,,Country_Website
+Austria,AT,AUT,8858775,2020-10-24,1177.0,175.0,Country_Website
+Belgium,BE,BEL,11455519,2020-10-24,4408.0,694.0,Country_Website
+Bulgaria,BG,BGR,7000039,2020-10-24,1886.0,127.0,External_Github
+Czechia,CZ,CZE,10649800,2020-10-24,5345.0,800.0,Country_Website
+Denmark,DK,DNK,5806081,2020-10-24,120.0,17.0,Country_Website
+Estonia,EE,EST,1324820,2020-10-24,28.0,3.0,Country_API
+France,FR,FRA,67012883,2020-10-24,15637.0,2491.0,Country_Website
+Hungary,HU,HUN,9772756,2020-10-24,2245.0,205.0,JRC
